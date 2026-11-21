@@ -1,0 +1,6 @@
+{
+  "appId": "com.tweetybirds.aviary",
+  "appName": "Tweety Birds",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
