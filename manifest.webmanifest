@@ -1,0 +1,10 @@
+{
+  "name": "Tweety Birds",
+  "short_name": "Tweety Birds",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8faf6",
+  "theme_color": "#eaf1e9",
+  "description": "Aviary and breeding management app",
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
